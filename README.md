@@ -9,3 +9,11 @@ Story: [Plausible Analytics – Browser fingerprinting and CNAME cloaking](https
 > To get around that, we offer a quick and easy way to serve the script from your custom domain. As a result, your stats are never blocked by clients because they are proxied through your subdomain.
 >
 > Source: docs.plausible.io/custom-domain
+
+
+## Adblock Filter List
+
+An aggregated list containing CNAME cloaked trackers used by Fathom Analytics, Plausible Analytics and Simple Analytics. 
+
+Adblock Filter List: [Unethical Web Analytics Blocklist](https://github.com/rogercomply/unethical-web-analytics). 
+
